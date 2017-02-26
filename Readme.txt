@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 Creating a new branch is quik AND simple.
 
+--no-ff -m "merge with no-ff"
